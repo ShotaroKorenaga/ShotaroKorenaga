@@ -5,5 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("Hello World")
-print("No more math")
+
+x=10
+print(2*x)
+print("Pokemon")
